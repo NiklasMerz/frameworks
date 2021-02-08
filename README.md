@@ -1,27 +1,28 @@
-# NgStart
+# Niklas' Take Angular, React, Vue
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
+## Angular (judging from years of using)
 
-## Development server
+* **Templates**
+* **Typescript**
+* CLI + Tooling
+* Enterprisy
+* Upgradebility
+* Router?
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## React (judging from a workshop)
 
-## Code scaffolding
+* Boilerplate
+* no CLI?
+* render/generating HTML, JSX/TSX not my cup of tea
+* Tooling complicated, many ways to do something?
+* More famous
+* State Management WTF? (redux etc.)
+* how to even get started
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Vue (judging from videos)
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+* similar to Angular but lighter?
+* looks good
+* TS support?
+* not as mature as Angular?
+* Simpler as Angular?
