@@ -4,9 +4,10 @@
 
 * **Templates**
 * **Typescript**
+* Value binding
 * CLI + Tooling
 * Enterprisy
-* Upgradebility
+* Upgradability
 * Router?
 
 ## React (judging from a workshop)
@@ -22,7 +23,8 @@
 ## Vue (judging from videos)
 
 * similar to Angular but lighter?
-* looks good
 * TS support?
 * not as mature as Angular?
 * Simpler as Angular?
+
+# TESTS TESTS TESTS!!!
